@@ -16,3 +16,6 @@ nb-configuration.xml
 *.jar
 *.war
 *.ear
+.idea/workspace.xml
+nbproject/project.properties
+nbproject/project.xml
